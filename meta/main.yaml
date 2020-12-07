@@ -6,6 +6,9 @@ dependencies:
   - src: "https://git@github.com/illallangi-alfa/configure-docker-repository.git"
     scm: git
     version: master
+  - src: "https://git@github.com/illallangi-alfa/configure-nvidia-docker.git"
+    scm: git
+    version: master
   - src: "https://git@github.com/illallangi-alfa/install-docker-ce.git"
     scm: git
     version: master
